@@ -14,8 +14,7 @@
     <p>Full name: Bhashkar Saud</p>
     <p>Email: bhashkarsaud57@gmail.com</p>
     <p>Phone Number:9861518456</p>
-    <p>Assignments</b></u></p>
-    <p> <a href="https://www.YouTube.com"</a>YouTube</p>
+    <p>Assignments</p>
     <table border="1">
         <tr>
             <th>Day</th>
